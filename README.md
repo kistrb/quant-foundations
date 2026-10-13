@@ -15,4 +15,3 @@ A dedicated public log tracking my journey through rigorous mathematical foundat
 
 ### Day 1
 - **Status:** Environment setup complete. Repository initialized.
-- **Focus:** Commencing Chapter 1 of Petzold (*Code*) and Chapter 1 of Velleman (*How to Prove It*).
